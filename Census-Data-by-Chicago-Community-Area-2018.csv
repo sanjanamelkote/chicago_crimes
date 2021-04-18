@@ -1,14 +1,12 @@
-"Population and Poverty Data by Chicago Community Area, updated December 2018",,,,,,,,,,,,,,,,,,
-Community,Number,Population,Population,Population,Population,Population,Population,Population,Race/Ethnicity of Total Population,Race/Ethnicity of Total Population,Race/Ethnicity of Total Population,Race/Ethnicity of Total Population,"Percent of Childrenwith All Parents in
-Labor Force","Percent of Childrenwith All Parents in
-Labor Force","Percent of Children
-in Poverty","Percent of Children
-in Poverty","Percent of Children Below
+Community,Number,Total Population,Population Age 0-2,Population Age 3-4,Population Age 5,Population Age 6-12,Population Families with a child under age 6,Population Percent Hispanic,Race/Ethnicity of Total Population Percent Non-Hispanic Black,Race/Ethnicity of Total Population Percent Non-Hispanic White,Race/Ethnicity of Total Population Percent Non-Hispanic Asian,Race/Ethnicity of Total Population Percent Non-Hispanic Other or Multiple Races,"Percent of Children with All Parents in
+Labor Force Children 0-5","Percent of Children with All Parents in
+Labor Force Children 6-17","Percent of Children
+in Poverty Children 0-5","Percent of Children
+in Poverty Children 6-11","Percent of Children Below
 185% of Poverty Level(Income Eligible for Child
-Care Assistance)","Percent of Children Below
+Care Assistance) Children 0-5","Percent of Children Below
 185% of Poverty Level(Income Eligible for Child
-Care Assistance)"
-Community,Number,Total Population,Age 0-2,Age 3-4,Age 5,Age 6-12,Families with a child under age 6,Percent Hispanic,Percent Non-Hispanic Black,Percent Non-Hispanic White,Percent Non-Hispanic Asian,Percent Non-Hispanic Other or Multiple Races,Children 0-5,Children 6-17,Children 0-5,Children 6-11,Children 0-5,Children 6-11
+Care Assistance) Children 6-11"
 Rogers Park,1,"53,346","1,952","1,348",610,"3,751","2,697",24%,24%,45%,4%,3%,59%,61%,33%,39%,52%,66%
 West Ridge,2,"77,074","3,698","2,206","1,138","7,762","4,352",20%,13%,41%,21%,5%,52%,65%,32%,36%,54%,59%
 Uptown,3,"55,042","1,704",873,415,"2,689","2,134",16%,18%,53%,11%,3%,72%,65%,24%,30%,40%,65%
@@ -86,6 +84,8 @@ Mount Greenwood,74,"16,953",831,538,268,"1,432",889,8%,14%,75%,2%,1%,85%,77%,3%,
 Morgan Park,75,"23,618",767,555,185,"2,021",983,5%,51%,41%,1%,2%,71%,69%,13%,22%,26%,27%
 O'Hare,76,"13,318",564,162,49,744,508,4%,46%,39%,5%,5%,54%,69%,23%,43%,40%,51%
 Edgewater,77,"57,296","1,411",877,420,"2,408","1,949",17%,13%,54%,13%,3%,57%,67%,18%,33%,36%,49%
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
